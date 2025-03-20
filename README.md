@@ -27,5 +27,5 @@ Está organizado das seguintes formas:
 
 > Devido a minha limitação de conhecimento, ainda não consegui colocar em prática tudo que gostaria, no entanto a medida que eu for adquirindo conhecimento, planejo dar upgrades neste projeto.
 
-#Nota para eu no futuro
+##Nota para eu no futuro
 > Está satisfeito?
